@@ -13,7 +13,7 @@
     </div>
     <div class="copyright">
         <div>Copyright © 2019 <a href="//www.tidnotes.ga" title="小TiD笔记">小TiD笔记</a></div>
-        <div>Powered By WordPress | Design By Tidra</div>
+        <div>Powered By WordPress | Design By <a href="https://github.com/Tidra/wp-tid-theme" title="小TiD笔记">Tidra</a></div>
     </div>
 </div>
 
