@@ -4,7 +4,7 @@
 > 主题名称(Theme Name)：TiD  
 > 主题URI(Theme URI)：[https://github.com/Tidra/wp-tid-theme](https://github.com/Tidra/wp-tid-theme)  
 > 作者(Author)：tidra  
-> 作者URI(Author URI)：[https://www.tidnotes.ga](https://www.tidnotes.ga)  
+> 作者URI(Author URI)：[https://www.tidnotes.ga](https://www.tidnotes.top)  
 > 版本(Version)：1.0  
 > 许可证(License)：GNU通用公共许可证v3.0或更高版本(GNU General Public License v3.0 or later)  
 > 许可证URI(License URI)：[https://github.com/Tidra/wp-tid-theme/blob/master/LICENSE](https://github.com/Tidra/wp-tid-theme/blob/master/LICENSE)  
